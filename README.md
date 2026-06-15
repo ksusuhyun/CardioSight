@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/74307c0b-8cee-4a5e-8ab2-65af798bda62
+https://github.com/user-attachments/assets/a10d3a17-07d0-428e-9114-bdac1521524b
 
 # CardioSight Standalone
 
